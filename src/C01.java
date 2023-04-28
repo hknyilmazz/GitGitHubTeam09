@@ -11,6 +11,9 @@ public class C01 {
         //version03
 
 
+        System.out.println("Java kolalydır");
+        //version04
+
 
 
     }
