@@ -15,6 +15,10 @@ public class C01 {
         //version04
 
 
+        System.out.println("Java zordur");
+        //version05
+
+
 
     }
 
