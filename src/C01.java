@@ -18,6 +18,11 @@ public class C01 {
         System.out.println("Java zordur");
         //version05
 
+        System.out.println("Bugun hava bayağı güzel");
+        //version06
+
+
+
 
 
     }
